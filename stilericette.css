@@ -1,0 +1,76 @@
+BODY{
+    background-color:lightblue;
+               repeat-x
+               bottom-left
+               fixed
+}
+
+
+H1 {
+   color:red;
+   text-align:center;
+   font-family:harrington;
+   font-weight:bold;
+   font-size:28px
+ }
+ 
+H2 {
+   color:crimson;
+   text-align:center;
+   font-family:calibri;
+   font-weight:bold;
+   font-size:20px
+}
+
+H3 {
+   color:red;
+   text-align:justify;
+   font-family:cursive;
+   font-weight:bold;
+   font-size:22px
+}
+
+H4 {
+   color:tomato;
+   text-align:justify;
+   font-family:cursive;
+   font-weight:bold;
+   font-size:20px
+}
+
+ul {
+  list-style:url(puntoelenco.jpg)
+             inside;
+  font-family:sans-serif;
+  font-style:italic;
+  font-size:17px;
+  font-weight:600;
+  text-align:justify
+
+}
+
+
+p {
+     color:black;
+     text-align:justify;
+     text-indent:20px;
+     font-family:serif;
+     font-size:18px
+}
+
+
+a:link {
+       text-decoration: none;
+  }
+
+a:visited {
+          text-decoration:none;
+}
+
+a:hover {
+        text-decoration:underline;
+}
+
+a:active {
+        text-decoration:underline;
+}
